@@ -11,7 +11,7 @@ char ch = 'a';
 int i = 48;
 /* your code goes there */
 while (i < 58)
-    {
+{
 putchar(i);
 i++;
 }
