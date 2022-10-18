@@ -4,7 +4,7 @@
 /**
  *main - prints putchar
  *
- *return -zero
+ *Return: ALways 0.
  */
 
 int main(void)
