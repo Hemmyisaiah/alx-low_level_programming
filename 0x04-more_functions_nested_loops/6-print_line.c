@@ -2,7 +2,7 @@
 
 /**
  * print_line  - Draw a line
- * @n: number of lines 
+ * @n: number of lines
  *
  * Return: lines
  */
